@@ -1,0 +1,39 @@
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:10px;
+	right:30px;
+	background-color:#089a25;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+padding:0;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
+.float2{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:10px;
+	left:30px;
+	background-color: #820000;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+padding:0;
+}
+
+.my-float2{
+	margin-top:16px;
+}
